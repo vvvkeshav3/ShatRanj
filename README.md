@@ -2,7 +2,7 @@
 
 #### ShatRanj is a realtime multiplayer chess game where user can also video call his/her opponent friend.
 
-#### This is the Frontend [React] part of the game.
+#### This is the Frontend [React] part of the game. Backend Part is directly deployed on heroku.
 
 ### Tech Stack :
 #### -Reactjs
